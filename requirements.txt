@@ -1,0 +1,12 @@
+fastapi>=0.115,<1.0
+uvicorn[standard]>=0.30,<1.0
+pydantic>=2.8,<3.0
+pydantic-settings>=2.4,<3.0
+httpx>=0.27,<1.0
+slowapi>=0.1.9,<1.0
+openai>=1.68,<3.0
+stripe>=11,<15
+spacy>=3.8,<3.9
+azure-identity>=1.17,<2.0
+azure-storage-blob>=12.22,<13.0
+de-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/de_core_news_sm-3.8.0/de_core_news_sm-3.8.0-py3-none-any.whl#sha256=fec69fec52b1780f2d269d5af7582a5e28028738bd3190532459aeb473bfa3e7
